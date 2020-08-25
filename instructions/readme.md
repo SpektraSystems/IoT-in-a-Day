@@ -34,9 +34,9 @@ Also, store all data in the long term storage for Cold path analysis and filter 
 
 In this exercise, you will use automated in-built Machine Learning models to analyze the data and detect anomalies instead of manual involvement to detect anomalies.
 
-## Exercise 4 - Real Time Monitoring of Data
+## Exercise 4 - Real-Time Monitoring of Data
 
-In this exercise, you will use the output from the query which detect anomaly in previous exercise to visualize the data in a Power BI dashboard and configure alerts as well which will be an optional task.
+In this exercise, you will use the output from the query which detects an anomaly in the previous exercise to visualize the data in a Power BI dashboard and configure alerts as well which will be an optional task.
 
 ## Exercise 5 - Getting started with Azure IoT Edge
 
