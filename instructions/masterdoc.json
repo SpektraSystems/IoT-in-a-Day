@@ -4,28 +4,32 @@
     "Language": "English",
     "Files": [
       {
-        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/IoT-in-a-Day/master/instructions/00.md",
+        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/IoT-in-a-Day/master/instructions/readme.md",
         "Order": 1
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/IoT-in-a-Day/master/instructions/01.md",
+        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/IoT-in-a-Day/master/instructions/00.md",
         "Order": 2
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/IoT-in-a-Day/master/instructions/02.md",
+        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/IoT-in-a-Day/master/instructions/01.md",
         "Order": 3
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/IoT-in-a-Day/master/instructions/03.md",
+        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/IoT-in-a-Day/master/instructions/02.md",
         "Order": 4
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/IoT-in-a-Day/master/instructions/04.md",
+        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/IoT-in-a-Day/master/instructions/03.md",
         "Order": 5
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/IoT-in-a-Day/master/instructions/05.md",
+        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/IoT-in-a-Day/master/instructions/04.md",
         "Order": 6
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/IoT-in-a-Day/master/instructions/05.md",
+        "Order": 7
       }            
     ]
   }
