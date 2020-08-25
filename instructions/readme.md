@@ -34,6 +34,14 @@ Also, store all data in the long term storage for Cold path analysis and filter 
 
 In this exercise, you will use automated in-built Machine Learning models to analyze the data and detect anomalies instead of manual involvement to detect anomalies.
 
-## Exercise 4 - Getting started with Azure IoT Edge
+## Exercise 4 - Real Time Monitoring of Data
+
+In this exercise, you will use the output from the query which detect anomaly in previous exercise to visualize the data in a Power BI dashboard and configure alerts as well which will be an optional task.
+
+## Exercise 5 - Getting started with Azure IoT Edge
 
 In this exercise, you will deploy a Stream Analytics module to the Edge device and generate an alert notification if process control values are exceeded.
+
+## Exercise 6 - Securing the IoT Solution
+
+In this exercise, you will secure the IoT Solution you have built by enabling the Azure Security Center for IoT and configuring the custom alerts.
