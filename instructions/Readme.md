@@ -4,23 +4,23 @@ Lab time: 120 minutes
 
 ## Fabrikam, Inc
 
-Fabrikam, Inc. creates industrial equipment. Businesses require these critical equipment to be running at peak efficiency and utilization to realize their return on capital investments. These assets range from aircraft engines, turbines, elevators, industrial chillers etc.
+Fabrikam, Inc. creates industrial equipment. Businesses require this critical equipment to be running at peak efficiency and utilization to realize their return on capital investments. These assets range from aircraft engines, turbines, elevators, industrial chillers, etc.
 
-Recent international health crisis has forced them to explore how IoT solutions can help empower remote work and collaboration, while increasing the productivity and reducing the operational expenses. 
+The recent international health crisis has forced them to explore how IoT solutions can help empower remote work and collaboration while increasing productivity and reducing operational expenses. 
 
-Specifically Fabrikam want to build a customizable solution that can scale across their global operations. Also, they want to ensure their solution covers data store, processing and analytics, be able to integrate intelligence both in the cloud and on-prem/edge, and ensure the data can be integrated into their existing business applications. 
+Specifically, Fabrikam wants to build a customizable solution that can scale across their global operations. Also, they want to ensure their solution covers data store, processing, and analytics, be able to integrate intelligence both in the cloud and on-prem/edge and ensure the data can be integrated into their existing business applications. 
 
 ## Lab context
 
-Fabrikam, Inc.’s Chief Technology Officer has evaluated the business opportunity for implementing IoT and has concluded that they can realize significant benefits by implementing Azure IoT solution.
+Fabrikam, Inc.’s Chief Technology Officer has evaluated the business opportunity for implementing IoT and has concluded that they can realize significant benefits by implementing the Azure IoT solution.
 
-You are one among the team members selected by the CTO to become familiar with the Azure tools and put together a quick proof of concept.
+You are one of the team members selected by the CTO to become familiar with the Azure tools and put together a quick proof of concept.
 
 In this lab, you will go through the various problem statements. The environment is already set up to focus on some of the core capabilities around Azure IoT.
 
 ## Exercise 1 - Getting Started with Azure IoT Services
 
-In this exercise, you will connect devices deployed across the globe to Azure IoT Hub and manage all the devices centrally in a reliable / scalable fashion. 
+In this exercise, you will connect devices deployed across the globe to Azure IoT Hub and manage all the devices centrally in a reliable/scalable fashion. 
 
 And configure the solution to receive telemetry.
 
@@ -28,11 +28,11 @@ And configure the solution to receive telemetry.
 
 In this exercise, you will use Stream Analytics to process and transform the data in IoT Hub.
 
-Also, store all data in the long term storage for Cold path analysis and and filter a subset of the telemetry data for real-time analysis and visualization on the hot path in PowerBI.
+Also, store all data in the long term storage for Cold path analysis and filter a subset of the telemetry data for real-time analysis and visualization on the hot path in PowerBI.
 
 ## Exercise 3 - Machine Learning in IoT
 
-In this exercise, you will use automated in-built Machine Learning models to analyse the data and detect anomalies instead of manual involvement to detect anomalies.
+In this exercise, you will use automated in-built Machine Learning models to analyze the data and detect anomalies instead of manual involvement to detect anomalies.
 
 ## Exercise 4 - Getting started with Azure IoT Edge
 
