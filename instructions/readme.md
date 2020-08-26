@@ -30,7 +30,7 @@ In this exercise, you will use Stream Analytics to process and transform the dat
 
 Also, store all data in the long term storage for Cold path analysis and filter a subset of the telemetry data for real-time analysis and visualization on the hot path in PowerBI.
 
-## Exercise 3 - Machine Learning in IoT
+## Exercise 3 - Machine Learning in IoT and Real-Time Monitoring using Power BI
 
 In this exercise, you will use automated in-built Machine Learning models to analyze the data and detect anomalies instead of manual involvement to detect anomalies.
 
