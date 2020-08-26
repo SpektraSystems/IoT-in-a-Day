@@ -20,17 +20,13 @@
         "Order": 4
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/IoT-in-a-Day/master/instructions/04.md",
+        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/IoT-in-a-Day/master/instructions/05.md",
         "Order": 5
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/IoT-in-a-Day/master/instructions/05.md",
-        "Order": 6
-      },
-      {
         "RawFilePath": "https://raw.githubusercontent.com/SpektraSystems/IoT-in-a-Day/master/instructions/06.md",
-        "Order": 7
-      }            
+        "Order": 6
+      }               
     ]
   }
 ]
