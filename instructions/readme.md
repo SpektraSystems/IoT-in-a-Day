@@ -36,10 +36,10 @@ In this exercise, you will use automated in-built Machine Learning models to ana
 
 And also you will use the output from the query which detects an anomaly in the first task to visualize the data in a Power BI dashboard and configure alerts as well which will be an optional task.
 
-## Exercise 5 - Getting started with Azure IoT Edge
+## Exercise 4 - Getting started with Azure IoT Edge
 
 In this exercise, you will deploy a Stream Analytics module to the Edge device and generate an alert notification if process control values are exceeded.
 
-## Exercise 6 - Securing the IoT Solution
+## Exercise 5 - Securing the IoT Solution
 
 In this exercise, you will secure the IoT Solution you have built by enabling the Azure Security Center for IoT and configuring the custom alerts.
