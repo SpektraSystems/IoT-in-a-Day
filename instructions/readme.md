@@ -24,7 +24,7 @@ In this exercise, you will connect devices deployed across the globe to Azure Io
 
 And configure the solution to receive telemetry.
 
-## Exercise 2 - Data Processing from Azure IoT Hub
+## Exercise 2 - Processing Data from Azure IoT Hub
 
 In this exercise, you will use Stream Analytics to process and transform the data in IoT Hub.
 
