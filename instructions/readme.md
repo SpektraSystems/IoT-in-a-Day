@@ -1,6 +1,6 @@
 # Azure IoT in a Day Lab
 
-Lab time: 120 minutes
+Lab time: 180 minutes
 
 ## Fabrikam, Inc
 
