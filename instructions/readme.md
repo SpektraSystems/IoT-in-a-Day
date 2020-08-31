@@ -18,6 +18,10 @@ You are one of the team members selected by the CTO to become familiar with the 
 
 In this lab, you will go through the various problem statements. The environment is already set up to focus on some of the core capabilities around Azure IoT.
 
+Below is the diagram of the **Solution architecture** that you will implement in this lab.
+
+![](media/diagramfinal01.png)
+
 ## Exercise 1 - Getting Started with Azure IoT Services
 
 In this exercise, you will connect devices deployed across the globe to Azure IoT Hub and manage all the devices centrally in a reliable/scalable fashion. 
