@@ -20,7 +20,7 @@ In this lab, you will go through the various problem statements. The environment
 
 Below is the diagram of the **Solution architecture** that you will implement in this lab.
 
-![](media/diagramfinal01.png)
+![](media/diagramreadme.png)
 
 ## Exercise 1 - Getting Started with Azure IoT Services
 
