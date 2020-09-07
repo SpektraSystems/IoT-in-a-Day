@@ -30,9 +30,9 @@ And configure the solution to receive telemetry.
 
 ## Exercise 2 - Processing Data from Azure IoT Hub
 
-In this exercise, you will use Stream Analytics to process and transform the data in IoT Hub.
+In this exercise, you will use Azure Stream Analytics to process and transform the data in IoT Hub.
 
-Also, store all data in the long term storage for Cold path analysis and filter a subset of the telemetry data for real-time analysis and visualization on the hot path in PowerBI.
+Also, store all data in the long term storage for cold path analysis and filter a subset of the telemetry data for real-time analysis and visualization on the hot path in PowerBI.
 
 ## Exercise 3 - Machine Learning in IoT and Real-Time Monitoring using Power BI
 
