@@ -1,4 +1,4 @@
-# Azure IoT in a Day Lab
+# Azure Immersion Workshop: Internet of Things 
 
 Lab time: 180 minutes
 
