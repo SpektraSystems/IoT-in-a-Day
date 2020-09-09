@@ -26,19 +26,19 @@ Below is the diagram of the **Solution architecture** that you will implement in
 
 In this exercise, you will connect devices deployed across the globe to Azure IoT Hub and manage all the devices centrally in a reliable/scalable fashion. 
 
-And configure the solution to receive telemetry.
+You will also configure the solution to receive telemetry data from IoT devices.
 
 ## Exercise 2 - Processing Data from Azure IoT Hub
 
-In this exercise, you will use Azure Stream Analytics to process and transform the data in IoT Hub.
+In this exercise, you will use Azure Stream Analytics to process and transform the real time data in IoT Hub.
 
-Also, store all data in the long term storage for cold path analysis and filter a subset of the telemetry data for real-time analysis and visualization on the hot path in PowerBI.
+You will also store all data in the long term storage for cold path analysis and filter a subset of the telemetry data for real-time analysis and visualization on the hot path in PowerBI.
 
 ## Exercise 3 - Machine Learning in IoT and Real-Time Monitoring using Power BI
 
-In this exercise, you will use automated in-built Machine Learning models to analyze the data and detect anomalies instead of manual involvement to detect anomalies.
+In this exercise, you will use automated in-built Machine Learning models to analyze the data and detect anomalies, eliminating any manual involvement to detect anomalies.
 
-And also you will use the output from the query which detects an anomaly in the first task to visualize the data in a Power BI dashboard and configure alerts as well which will be an optional task.
+You will use the output from the query which detects an anomaly in the first task to visualize the data in a Power BI dashboard and configure alerts as well which will be an optional task.
 
 ## Exercise 4 - Getting started with Azure IoT Edge
 
