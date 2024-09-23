@@ -1,6 +1,6 @@
 # Azure Immersion Workshop: Internet of Things 
 
-Lab time: 180 minutes
+### Lab duration: 180 minutes
 
 ## Fabrikam, Inc
 
